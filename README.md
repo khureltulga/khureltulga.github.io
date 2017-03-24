@@ -1,0 +1,1 @@
+# khureltulga.github.io
