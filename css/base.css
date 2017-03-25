@@ -93,7 +93,7 @@ iframe{
 /* Basic Styles*/
 	body {
 		background: #ffffff;
-		font: 14px/22px "open_sans",Arial,sans-serif;
+		font: 14px/22px "Roboto",Arial,sans-serif;
 		color: #777777;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -223,59 +223,68 @@ iframe{
 
 
 	.block-teaser h1, .fact-list li .desc-fact span, .name-profile h5{
-		font-family: 'titillium-semibold',Arial,sans-serif;
+		font-family: 'Roboto',Arial,sans-serif;
+		font-weight: 400;
 	}
 	
 	
 	.menu li {
-		font-family: 'titillium_bdbold',Arial,sans-serif;
+		font-family: 'Roboto Condensed',Arial,sans-serif;
+		font-weight: bold;
 	}
 	
 	
 	
 	.fact-list li .desc-fact, .testi-thumbs h3{
-		font-family: 'titilliumthin_upright',Arial,sans-serif;
+		font-family: 'Roboto Condensed',Arial,sans-serif;
+		font-weight: 200;
 	}
 	
 	
 	 .title{
-		font-family: 'titilliumlight_upright',Arial,sans-serif;
+		font-family: 'Roboto Condensed',Arial,sans-serif;
+		font-weight: 300;
 	}
 	
 	
 	.filter li, .comments .reply-btn a, .but  {
-		font-family: "titilliumregular_upright",Arial,sans-serif;
+		font-family: "Roboto Condensed",Arial,sans-serif;
 
 	}
 	
 	
 	.block-teaser h3, .name-profile h5 span, .block-about.one h5 , .block-table .table h6,
 	.block-single h1.large-title, .socials.round li a, .testi-details .td blockquote{
-		font-family: "open_sanslight",Arial,sans-serif;
+		font-family: "Roboto",Arial,sans-serif;
+		font-weight: 300;
 	}
 	
 	
 	
 	 .block-price span.price, .post-details h4 a,.post-details h4, .block-about ul.info span, .exp-det h6, .exp .hgroup h4, .edu .hgroup h4, .ast-list ul li, .blog-widget h6, .author a, .serv-det h5, .info-det h5, .block-feed h6, .skill-list h4 {
-	    font-family: "open_sansbold",Arial,sans-serif;
+	    font-family: "Roboto",Arial,sans-serif;
 	}
 	
 	
 	.exp .hgroup h6 , .edu .hgroup h6 {
-	    font-family: "open_sansitalic",Arial,sans-serif;
+	    font-family: "Roboto",Arial,sans-serif;
+	    font-style: italic;
 	}
 	
 	
 	.testi-details .td h6, .item a .desc h5, strong, .post-meta li.date  {
-		font-family: "open_sanssemibold",Arial,sans-serif;
+		font-family: "Roboto",Arial,sans-serif;
+		font-weight: 400;
 	}
 	
 	.testi-details .td span, .block-price  span.per {
-		font-family: "open_sansregular",Arial,sans-serif;
+		font-family: "Roboto",Arial,sans-serif;
 	}
 	
 	.item a .desc  span {
-		font-family: "open_sanslight_italic",Arial,sans-serif;
+		font-family: "Roboto",Arial,sans-serif;
+		font-weight: 300;
+		font-style: italic;
 	}
 
 

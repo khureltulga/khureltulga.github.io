@@ -275,6 +275,7 @@ a.mobile-btn{
     left: -8px;
     padding-top: 10px;
     position: relative;
+    font-family: "Roboto Condensed";
 }
 
 
@@ -498,7 +499,7 @@ a.mobile-btn{
 
 .skill-list h4 {
     display: block;
-    width: 144px;
+    width: 100%;
     font-size: 13px;
 }
 
